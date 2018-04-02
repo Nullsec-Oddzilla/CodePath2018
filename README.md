@@ -23,7 +23,7 @@ Top 5 attacker IP's
 
 ##JSON
 
-/session.json
+CodePath2018/session.json
 
 ##Issues
 
